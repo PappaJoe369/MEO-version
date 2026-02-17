@@ -1,8 +1,11 @@
 {
   "version": "1.0.11",
   "channel": "stable",
-  "update_feed_url": ""
+  "exe_url": "https://mventech.sharepoint.com/:u:/s/MEODistribution/IQAfJaUuvLARSbKPPk1hsGy_AWbBFn6z5_BCqPbLNWfGxB4",
+  "json_url": "https://mventech.sharepoint.com/:u:/s/MEODistribution/IQAV9ln4xCOQQ7r87_bE_bM_ASwpCsB7WCPIg7mWMRMJStY",
+  "installer_url": "https://mventech.sharepoint.com/:u:/s/MEODistribution/IQBPfDVPS8XTTZ7FW6QSSCB9AYGB8R2WayA23IkBAaieZy4"
 }
+
 
 
 
